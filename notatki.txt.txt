@@ -1,2 +1,4 @@
 Notatki 
 ConsoleWriteLine("Hello World!");
+
+break;
